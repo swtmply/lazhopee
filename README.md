@@ -21,6 +21,8 @@ To follow along the codes and folder structure that is used in the project we hi
 - [Next.js](https://nextjs.org/docs) - learn about Next.js features and API.
 - [TailwindCSS](https://tailwindcss.com/) - CSS framework 👍.
 - [Shadcn UI](https://ui.shadcn.com/docs) - UI components that is built with Radix and TailwindCSS.
+- [Supabase](https://supabase.com/) - Supabase for database management
+- [Prisma](https://www.prisma.io/) - ORM for database
 
 There are more packages and technologies will be added here. Putang ina
 
